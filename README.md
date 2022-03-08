@@ -1,5 +1,5 @@
 ## Ivens Joris (vensauro <img alt="Pokémon Venusaur" height="28" src="logos/venusaur.png" />)
-
+![](https://komarev.com/ghpvc/?username=vensauro&color=blueviolet)
 <br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&borderColor=none&bgColor=none)
