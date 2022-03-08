@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=vensauro&color=blueviolet)
 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&borderColor=none&bgColor=none)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&borderColor=none&bgColor=none) -->
 
 - 🌱 I’m currently learning game development with unity and math
 - 👯 I’m looking to collaborate on [he4rt/react4noobs](https://github.com/he4rt/react4noobs)
@@ -13,6 +13,7 @@
 
 ### Where to find me 📬:
 <p align="center">
+<a href="mailto:ivens.joris.nogueira@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://twitter.com/ivensauro" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
 <a href="https://www.linkedin.com/in/ivens-joris-nogueira/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://www.instagram.com/ivensauro/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
