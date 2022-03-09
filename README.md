@@ -56,7 +56,7 @@
 </p> -->
 
 
-## Coding Activity 👩🏽‍💻
+<!-- ## Coding Activity 👩🏽‍💻
 
 <br/>
 
@@ -64,9 +64,10 @@
 
 ![Vensauro GitHub stats](https://github-readme-stats.vercel.app/api?username=vensauro&show_icons=true&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vensauro&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vensauro&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Now Playing 🎧
 <br/>
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ivensauro)
+<p align="center">
+<img src="https://lastfm-recently-played.vercel.app/api?user=ivensauro" alt="My scrobbles" />
+</p>
