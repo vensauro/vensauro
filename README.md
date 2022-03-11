@@ -24,7 +24,7 @@
 ### Have worked with 👾:
 - Programming: Javascript(Typescript), Java, C#, Python, Php 
 - Game Engines: Unity, GameMaker
-- Server Technologies: RabbitMQ
+<!-- - Server Technologies: RabbitMQ -->
 - Front-end: React, Redux, HTML, CSS, Vuejs, Material Ui, Tailwind
 - Infra: Docker, Caprover
 - Databases: Postgresql, MongoDB, MySQL
