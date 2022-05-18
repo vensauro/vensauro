@@ -5,7 +5,7 @@
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&borderColor=none&bgColor=none) -->
 
 - 🌱 I’m currently learning game development with unity and math
-- 👯 I’m looking to collaborate on [he4rt/react4noobs](https://github.com/he4rt/react4noobs)
+- 👯 I’m looking to collaborate on open source and game projects
 - 🤔 I’m looking for help with game development math
 - 💬 Ask me about anything that i have worked
 - 😄 Pronouns: He/Him
